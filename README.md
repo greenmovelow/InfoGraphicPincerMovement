@@ -3,9 +3,9 @@ This repository contains the source code for the live, single-page application (
 Live Application
 This infographic is designed to be a dynamic and engaging entry point into our investigation. It details the actors, strategies, and financial networks behind the Pincer Movement through data visualizations and interactive elements.
 Click here to view the Live Interactive Infographic
-(Note: You will need to replace your-github-username with your actual GitHub username after deploying.)
 
-(Note: A screenshot of the live infographic should be placed here. You will need to upload one and replace this link.)
+https://greenmovelow.github.io/InfoGraphicPincerMovement/
+
 About This Project
 This project translates the complex data and narrative of our investigative report into an accessible visual format. It is built as a self-contained webpage using HTML, Tailwind CSS, and Chart.js.
 The goal is to provide a clear and compelling overview of the investigation's core thesis: the coordinated, two-pronged assault on American democratic institutions.
